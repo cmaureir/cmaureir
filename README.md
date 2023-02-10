@@ -21,7 +21,8 @@ activities related to Open Source, Python :snake:, and C++ around the Berlin
 area, but also online, from where I have been helping with the organization
 of [Python Chile](https://pythonchile.cl) :chile:,
 [Python Spain](https://es.python.org) :es:,
-and a global community called [Python en Español](https://hablemospython.dev).
+and a global community called [Python en Español](https://hablemospython.dev) <img src="https://hablemospython.dev/assets/favicon.png" style="width: 18px;"/>. Did you know we are constantly translating the official Python :snake: Documentation to Spanish?
+> ¡[Únete al equipo](https://python-docs-es.readthedocs.io/es/3.8/CONTRIBUTING.html)!
 
 Something else I enjoy is to help **organizing and attending conferences**:
 I had the pleasure to help organizing the [first PyCon
@@ -38,5 +39,4 @@ integrator :star: using different CPU and GPU parallelism techniques, and
 used for this really cool [Black Hole Binaries in accretion
 discs](http://multipleclouds.xyz/movies/) simulations :black_circle: :cyclone:.
 
-> Did you know we are translating the official Python :snake: Documentation to Spanish?
-> ¡[Únete al equipo](https://python-docs-es.readthedocs.io/es/3.8/CONTRIBUTING.html)!
+<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=cmaureir" />
