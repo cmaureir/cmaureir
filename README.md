@@ -6,7 +6,9 @@
 [![Website](https://img.shields.io/badge/Web-maureira.xyz-black)](https://maureira.xyz)
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/65px-Archlinux-icon-crystal-64.svg.png"/></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/256px-Arch_Linux_%22Crystal%22_icon.svg.png"/></code>
+
+
 
 
 I'm currently working at [The Qt Company](https://qt.io) as a Team Lead for the
