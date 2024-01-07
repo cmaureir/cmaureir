@@ -8,9 +8,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/256px-Arch_Linux_%22Crystal%22_icon.svg.png"/></code>
 
-
-
-
 I'm currently working at [The Qt Company](https://qt.io) as a Team Lead for the
 [QtCore](https://doc.qt.io/qt-5/qtcore-index.html) and [Qt for
 Python](https://www.qt.io/qt-for-python) projects, luckily for me, I'm still
@@ -23,7 +20,7 @@ activities related to Open Source, Python :snake:, and C++ around the Berlin
 area, but also online, from where I have been helping with the organization
 of [Python Chile](https://pythonchile.cl) :chile:,
 [Python Spain](https://es.python.org) :es:,
-and a global community called [Python en Español](https://hablemospython.dev) <img src="https://hablemospython.dev/assets/favicon.png" style="width: 18px;"/>. Did you know we are constantly translating the official Python :snake: Documentation to Spanish?
+and a global community called [Python en Español](https://hablemospython.dev) <img src="https://hablemospython.dev/img/favicon/favicon-16x16.png" style="width: 18px;"/>. Did you know we are constantly translating the official Python :snake: Documentation to Spanish?
 > ¡[Únete al equipo](https://python-docs-es.readthedocs.io/es/3.8/CONTRIBUTING.html)!
 
 Something else I enjoy is to help **organizing and attending conferences**:
