@@ -1,6 +1,6 @@
 # Hello, my name is Cristián :wave:
 
-[![Bluesky](https://img.shields.io/badge/-Bluesky-222222?style=flat-square&logo=bluesky&logoColor=white&link=[https://twitter.com/cmaureir](https://bsky.app/profile/maureira.dev)
+[![Bluesky](https://img.shields.io/badge/-Bluesky-222222?style=flat-square&logo=bluesky&logoColor=white&link=https://bsky.app/profile/maureira.dev)](https://bsky.app/profile/maureira.dev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cmaureir/)](https://www.linkedin.com/in/cmaureir/)
 [![qt](https://img.shields.io/badge/-CodeReview-222222?style=flat-square&logo=qt&logoColor=white&link=https://codereview.qt-project.org/q/owner:cristian.maureira-fredes%2540qt.io)](https://codereview.qt-project.org/q/owner:cristian.maureira-fredes%2540qt.io)
 [![Website](https://img.shields.io/badge/Web-maureira.dev-black)](https://maureira.dev)
